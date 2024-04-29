@@ -1,0 +1,9 @@
+default:
+  db:
+    driver: 'Postgres' 
+    server: 'localhost'
+    uid: 'postgres'
+    pwd: ''  
+    port: 5432
+    database: 'bio'
+ 
