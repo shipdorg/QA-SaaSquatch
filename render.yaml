@@ -5,4 +5,4 @@ services:
   region: frankfurt 
   runtime: docker
   autoDeploy: true
-  repo: https://github.com/shipdorg/jfdi-landing-page 
+  repo: https://github.com/dannybster/nature-search-api-prototype.git
